@@ -1,5 +1,5 @@
 # 六角學院 Flex 修煉時光屋
-###練習成果 CodePen 連結：
+### 練習成果 CodePen 連結：
 1. https://codepen.io/jzyifnzf-the-animator/pen/VwExxVe
 2. https://codepen.io/jzyifnzf-the-animator/pen/MWPGGMZ
 3. https://codepen.io/jzyifnzf-the-animator/pen/abRGKam
